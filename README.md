@@ -84,7 +84,12 @@
    ```bash
    java -jar BaiduDiskScanQrCodeSystem.jar
    ```
-
+## ⬇️ 本系统为商用版系统，所有功能暂不开源 购买程序！定制开发！ ⬇️
+## ⬇️ 本系统为商用版系统，所有功能暂不开源 购买程序！定制开发！ ⬇️
+## ⬇️ 本系统为商用版系统，所有功能暂不开源 购买程序！定制开发！ ⬇️
 ## 联系方式
 - 联系邮箱： fifteenyang@qq.com（主题百度网盘扫码）
+- 备注（百度网盘扫码系统）
+- <img width="687" alt="image" src="https://github.com/zxyyang/BaiduDiskScanQrCodeSystem/assets/50910542/74f0a186-9f91-43b7-920a-a5db99914123">
+
 感谢您的支持和使用！我们致力于提供更优质的百度网盘扫码登录体验。
