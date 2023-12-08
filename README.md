@@ -36,6 +36,21 @@
 9. **联系客服：** 提供联系客服地址，方便用户获取帮助和支持。
     - 设置外链一键引流
 
+## 界面展示
+<img width="444" alt="image" src="https://github.com/zxyyang/BaiduDiskScanQrCodeSystem/assets/50910542/958c96bd-085f-45fb-b5e5-38f3b11c8ac0">
+<img width="444" alt="image" src="https://github.com/zxyyang/BaiduDiskScanQrCodeSystem/assets/50910542/6ff31ec8-e784-46a1-84f0-73aa5ce847e1">
+
+<img width="1710" alt="image" src="https://github.com/zxyyang/BaiduDiskScanQrCodeSystem/assets/50910542/22eb7294-aba3-4e05-bc3e-f5c0fc92ae63">
+<img width="1715" alt="image" src="https://github.com/zxyyang/BaiduDiskScanQrCodeSystem/assets/50910542/58b23fb1-8a64-49aa-815d-714f7631835b">
+<img width="1715" alt="image" src="https://github.com/zxyyang/BaiduDiskScanQrCodeSystem/assets/50910542/60c9a6d7-d199-4292-a3a5-4feecb1a18fa">
+<img width="1715" alt="image" src="https://github.com/zxyyang/BaiduDiskScanQrCodeSystem/assets/50910542/8ccc9985-1eae-4e17-99ba-d39425c2f5f1">
+<img width="1715" alt="image" src="https://github.com/zxyyang/BaiduDiskScanQrCodeSystem/assets/50910542/4a8882e8-62ba-4c64-9ba2-2d25e6f42a99">
+<img width="1715" alt="image" src="https://github.com/zxyyang/BaiduDiskScanQrCodeSystem/assets/50910542/cebc2f09-19e2-4b09-8a4e-85b7504a5aaa">
+
+
+
+
+
 ## 功能列表
    - 远程扫码登录（pc、pad、phone）✅
    - 配置花联系外链+广告功能 ✅
