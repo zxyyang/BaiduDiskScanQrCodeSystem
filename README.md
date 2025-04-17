@@ -94,17 +94,4 @@
 
 ## 快速开始
 
-1. **项目部署和启动：**
-   ```bash
-   java -jar BaiduDiskScanQrCodeSystem.jar
-   ```
-## 技术联系和学习交流使用，请勿违反平台规则，非法使用
-
-# ⬇️⬇️⬇️⬇️⬇️⬇️⬇️付费提供源码或部署版本，也可定制开发功能⬇️⬇️⬇️⬇️⬇️⬇️⬇️
-# ⬇️⬇️⬇️⬇️⬇️⬇️⬇️600-1200，能接受在加！联系备注百度网盘⬇️⬇️⬇️⬇️⬇️⬇️⬇️
-<img width="300" alt="image" src="https://github.com/zxyyang/BaiduDiskScanQrCodeSystem/assets/50910542/caeabff1-d134-4fe2-a968-8a1ca884e765">
-
-## 交流联系方式
-- 联系邮箱： fifteenyang@qq.com（主题百度网盘扫码）
-- 备注（网盘扫码系统）
 
